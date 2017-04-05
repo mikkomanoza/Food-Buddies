@@ -20,7 +20,6 @@ target 'Food Buddies' do
   pod 'FacebookShare'
   pod 'SwiftKeychainWrapper'
   pod 'GSImageViewerController'
-  pod 'SVProgressHUD'
 
   target 'Food BuddiesTests' do
     inherit! :search_paths

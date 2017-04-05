@@ -12,7 +12,6 @@ import FacebookLogin
 import FBSDKCoreKit
 import FBSDKLoginKit
 import SwiftKeychainWrapper
-import SVProgressHUD
 import UIKit
 
 class LoginViewController: UIViewController {
